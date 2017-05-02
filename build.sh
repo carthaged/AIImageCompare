@@ -1,4 +1,4 @@
-#!/bin/bash/
+#!/bin/bash
 ORG=carthaged
 REPO=AIImageCompare
 TAG=0.1.3

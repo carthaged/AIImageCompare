@@ -1,5 +1,5 @@
 #!/bin/bash
-ORG=carthaged
+ORG=aleph7
 REPO=AIImageCompare
 TAG=0.1.3
 
